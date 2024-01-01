@@ -62,19 +62,5 @@
       "Viral Impact: Opponent's defense is reduced by 1 for every meme card in play."
     ],
     "image": "https://picsum.photos/200"
-  },
-  {
-    "name": "TestCardForInput",
-    "type": "doesthisstore?",
-    "subtype": "???",
-    "cost": "0",
-    "attack": "69",
-    "defense": "1337",
-    "description": "this is a test",
-    "abilities": [
-      "test1",
-      "test2"
-    ],
-    "image": "https://picsum.photos/200"
   }
 ]
